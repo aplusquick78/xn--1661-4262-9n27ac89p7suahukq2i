@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gpquick.dothome.co.kr/sitemap.xml
+
+
+
